@@ -16,7 +16,7 @@ import javax.servlet.http.HttpSession;
  *
  * @author myx
  */
-@ManagedBean(name = "UserNumberBean")
+@ManagedBean(name = "UserNumberBean2")
 @SessionScoped
 public class UserNumberBean implements Serializable {
 
@@ -66,7 +66,6 @@ public class UserNumberBean implements Serializable {
     }
 
     public void setUserNumber(Integer userNumber) {
-        System.out.println("set userNumber :" + userNumber);
         this.userNumber = userNumber;
     }
 
