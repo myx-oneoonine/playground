@@ -36,7 +36,6 @@ public class DataStorageConverter {
                 value = value * Math.pow(1024, 6);
                 break;
             case 8: //	"exabyte"	
-
                 value = value * Math.pow(1024, 7);
                 break;
             case 9: //	"zettabyte"	
@@ -45,7 +44,6 @@ public class DataStorageConverter {
             case 10: //	"yottabyte"	
                 value = value * Math.pow(1024, 9);
                 break;
-
             default:
                 return unitList;
         }
