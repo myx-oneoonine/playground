@@ -1,0 +1,4 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://myx-pc:8001/soa-infra/services/default/Project1/helloworld_client_ep?WSDL"
+          uri="../sample/oracle/otn/soascheduler/proxy/helloworld_client_ep.wsdl"/>
+</catalog>
