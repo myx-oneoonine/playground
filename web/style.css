@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	color: blue
+}
+.red-text {
+	color: red
+}
+.blue-text {
+	color: blue;
+	font-size:9px
+	
+}
+

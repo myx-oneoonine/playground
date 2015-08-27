@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: rgba(51,51,51,1.00);
+	color: rgba(217,229,119,1.00);
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	text-align: center;
+}
+h1 {
+	color: rgba(123,54,57,1.00);
+}
+a {
+	color: rgba(109,171,255,1.00);
+	font-weight:bold;
+}
